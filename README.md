@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
@@ -70,7 +70,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark" />
-</p>
+</p> -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Azzmath-12&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark)
+
 
 ---
 
