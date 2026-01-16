@@ -76,9 +76,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azzmath-12&show_icons=true&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.deno.dev/?user=Azzmath-12&theme=dark" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true)
+
 
 
 <p align="center">
