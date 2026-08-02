@@ -37,35 +37,29 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 - 🧠 **Technical Mindset:** Product Engineering mindset with emphasis on code quality, scalability, and modular development[cite: 1, 2].
 - 🎯 **Open To:** Full-time Software Engineering roles, Enterprise Application Development, High-growth Tech Teams[cite: 1, 2].
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
 
 ### Tools & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,git,github" />
+  <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 </div>
-
----
 
 ## 🤖 AI / Core Engineering Expertise
 
