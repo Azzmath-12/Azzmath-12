@@ -165,9 +165,9 @@ A robust console-based database persistence engine written in Core Java utilizin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzmath-12&theme=tokyo-night&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
