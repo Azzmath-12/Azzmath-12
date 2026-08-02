@@ -32,6 +32,7 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 - ⚡ **Architecture Focus:** Component-driven Frontend Architecture, Microservices Readiness, MVC Design Patterns[cite: 2].
 - 🧠 **Technical Mindset:** Product Engineering mindset with emphasis on code quality, scalability, and modular development[cite: 1, 2].
 - 🎯 **Open To:** Full-time Software Engineering roles, Enterprise Application Development, High-growth Tech Teams[cite: 1, 2].
+- ⚡ Fun Fact: I enjoy solving backend problems more than frontend bugs
 
 ---
 
@@ -202,6 +203,16 @@ A robust console-based database persistence engine written in Core Java utilizin
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <em><strong>
+    “Clean code always looks like it was written by someone who cares.”
+  </strong></em>
 </p>
 
 ---
