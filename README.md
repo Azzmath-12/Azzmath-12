@@ -23,6 +23,9 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
+
+
 Motivated **Java Full Stack Developer** with hands-on experience in building responsive web applications using HTML5, CSS3, JavaScript, and React.js, along with a strong foundation in Core Java, Java Servlets, JDBC, and Spring Boot[cite: 2]. Passionate about developing scalable, user-centric applications and seamlessly integrating frontend interfaces with enterprise backend services[cite: 2].
 
 - 🔭 **Engineering Expertise:** Full Stack Web Applications, RESTful APIs, Relational Database Management[cite: 2].
