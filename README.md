@@ -12,13 +12,6 @@
   </p>
 
   <p align="center">
-    <a href="https://asmath-portfolio-12.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-9D4EDD?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/asmath-dev8212"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:asmathdev12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Azzmath-12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
-
-  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Azzmath-12&color=7b2cbf&style=flat-square&label=Profile+Views" />
     <img src="https://img.shields.io/github/followers/Azzmath-12?label=Followers&color=5a189a&style=flat-square" />
     <img src="https://img.shields.io/github/stars/Azzmath-12?label=Stars&color=3c096c&style=flat-square" />
@@ -55,7 +48,6 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 <p>
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Tool_Suite_(STS)-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> -->
 </p>
 
 </div>
