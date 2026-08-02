@@ -37,30 +37,35 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 - 🧠 **Technical Mindset:** Product Engineering mindset with emphasis on code quality, scalability, and modular development[cite: 1, 2].
 - 🎯 **Open To:** Full-time Software Engineering roles, Enterprise Application Development, High-growth Tech Teams[cite: 1, 2].
 
---
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" />
 </p>
 
 ### Tools & Environments
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,postman,git,github" />
 </p>
 
 </div>
 
---
+---
 
 ## 🤖 AI / Core Engineering Expertise
 
@@ -160,9 +165,9 @@ A robust console-based database persistence engine written in Core Java utilizin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzmath-12&theme=tokyo-night&hide_border=true" />
-</p> -->
+</p>
 
 ---
 
