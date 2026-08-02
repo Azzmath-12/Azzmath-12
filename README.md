@@ -153,8 +153,8 @@ A robust console-based database persistence engine written in Core Java utilizin
 
 | Recognition | Details |
 | :--- | :--- |
-| **Full Stack Certification** | Completed intensive Frontend & Backend training at Inetz Technologies[cite: 2]. |
-| **Academic Excellence** | B.Sc. Computer Science Graduate with strong core computer science fundamentals[cite: 2]. |
+| **Full Stack Certification** | Completed intensive Frontend & Backend training at Inetz Technologies. |
+| **Academic Excellence** | B.Sc. Computer Science Graduate with strong core computer science fundamentals. |
 
 </div>
 
