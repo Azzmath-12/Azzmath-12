@@ -30,9 +30,9 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 
 - 🔭 **Engineering Expertise:** Full Stack Web Applications, RESTful APIs, Relational Database Management.
 - ⚡ **Architecture Focus:** Component-driven Frontend Architecture, Microservices Readiness, MVC Design Patterns.
+- 💬 Fun Fact: I enjoy solving backend problems more than frontend bugs.
 - 🧠 **Technical Mindset:** Product Engineering mindset with emphasis on code quality, scalability, and modular development.
 - 🎯 **Open To:** Full-time Software Engineering roles, Enterprise Application Development, High-growth Tech Teams.
-- ⚡ Fun Fact: I enjoy solving backend problems more than frontend bugs.
 
 ---
 
@@ -87,9 +87,9 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Frontend Architecture** | Advanced | React.js component lifecycle, state management, client-side routing (React Router), responsive design[cite: 2]. |
-| **Backend Engineering** | Advanced | Core Java, JDBC connectivity, Object-Relational Mapping, Java Servlets, Spring Boot REST APIs[cite: 2]. |
-| **Database Design** | Intermediate | MySQL relational modeling, schema architecture, optimized SQL queries, CRUD operations[cite: 2]. |
+| **Frontend Architecture** | Advanced | React.js component lifecycle, state management, client-side routing (React Router), responsive design. |
+| **Backend Engineering** | Advanced | Core Java, JDBC connectivity, Object-Relational Mapping, Java Servlets, Spring Boot REST APIs. |
+| **Database Design** | Intermediate | MySQL relational modeling, schema architecture, optimized SQL queries, CRUD operations. |
 
 ---
 
@@ -99,17 +99,17 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 <summary><b>01. Student Management System (React.js)</b></summary>
 <br />
 
-A single-page application built using React.js, JavaScript, and Vite designed to efficiently manage student records with intuitive navigation and high performance[cite: 2].
+A single-page application built using React.js, JavaScript, and Vite designed to efficiently manage student records with intuitive navigation and high performance.
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| React.js, Vite, JavaScript, CSS3[cite: 2] | Client-Side SPA | Instant rendering via Vite HMR | Form validation & Input Sanitization | Streamlined academic data management[cite: 2] |
+| React.js, Vite, JavaScript, CSS3 | Client-Side SPA | Instant rendering via Vite HMR | Form validation & Input Sanitization | Streamlined academic data management |
 
 * **Repository:** [Student-Table-Management](https://github.com/Azzmath-12/Student-Table-Management)
 * **Technical Details:** 
-  * Developed modular, reusable React components supporting complete CRUD operations[cite: 2].
-  * Implemented React Router for seamless single-page application routing without page reloads[cite: 2].
-  * Applied modern layout techniques (CSS Grid/Flexbox) ensuring full responsiveness across mobile and desktop interfaces[cite: 2].
+  * Developed modular, reusable React components supporting complete CRUD operations.
+  * Implemented React Router for seamless single-page application routing without page reloads.
+  * Applied modern layout techniques (CSS Grid/Flexbox) ensuring full responsiveness across mobile and desktop interfaces.
 
 </details>
 
@@ -117,17 +117,17 @@ A single-page application built using React.js, JavaScript, and Vite designed to
 <summary><b>02. JDBC Enterprise CRUD Application (Java & MySQL)</b></summary>
 <br />
 
-A robust console-based database persistence engine written in Core Java utilizing JDBC architecture to perform secure data manipulation against relational databases[cite: 2].
+A robust console-based database persistence engine written in Core Java utilizing JDBC architecture to perform secure data manipulation against relational databases.
 
 | Stack | Scale | Performance | Security | Impact |
 | :--- | :--- | :--- | :--- | :--- |
-| Core Java, JDBC, MySQL[cite: 2] | Enterprise Backend Logic | Direct SQL Execution & Connection Handling | Parameterized Queries against SQL Injection | Foundation for enterprise data persistence[cite: 2] |
+| Core Java, JDBC, MySQL | Enterprise Backend Logic | Direct SQL Execution & Connection Handling | Parameterized Queries against SQL Injection | Foundation for enterprise data persistence |
 
 * **Repository:** [JDBC-CRUD-APPLICATION](https://github.com/Azzmath-12/JDBC-CRUD-APPLICATION)
 * **Technical Details:**
-  * Configured reliable database connectivity using JDBC drivers and connection management[cite: 2].
-  * Engineered clean exception handling and SQL transaction controls to guarantee data integrity[cite: 2].
-  * Extensively tested schema design and CRUD operation efficiency using MySQL Workbench[cite: 2].
+  * Configured reliable database connectivity using JDBC drivers and connection management.
+  * Engineered clean exception handling and SQL transaction controls to guarantee data integrity.
+  * Extensively tested schema design and CRUD operation efficiency using MySQL Workbench.
 
 </details>
 
@@ -136,14 +136,14 @@ A robust console-based database persistence engine written in Core Java utilizin
 ## 💼 Work Experience
 
 ### **Java Full Stack Developer Intern** — Keyan Technologies
-*Chennai, India | Recent*[cite: 2]
+*Chennai, India | Recent*
 
-* Assisted in developing dynamic, responsive web pages using **HTML5, CSS3, JavaScript, and React.js**[cite: 2].
-* Collaborated with senior engineers on client-focused application development and code reviews[cite: 2].
-* Acquired practical knowledge of backend architectures including **Java Servlets, Spring Framework, and Spring Boot**[cite: 2].
-* Integrated frontend user interfaces with REST API endpoints under enterprise development guidelines[cite: 2].
+* Assisted in developing dynamic, responsive web pages using **HTML5, CSS3, JavaScript, and React.js**.
+* Collaborated with senior engineers on client-focused application development and code reviews.
+* Acquired practical knowledge of backend architectures including **Java Servlets, Spring Framework, and Spring Boot**.
+* Integrated frontend user interfaces with REST API endpoints under enterprise development guidelines.
 
-**Skills:** `Java` `Spring Boot` `React.js` `MySQL` `REST APIs` `Git`[cite: 2]
+**Skills:** `Java` `Spring Boot` `React.js` `MySQL` `REST APIs` `Git`
 
 ---
 
