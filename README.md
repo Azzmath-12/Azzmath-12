@@ -32,6 +32,31 @@ Motivated **Java Full Stack Developer** with hands-on experience in building res
 
 ---
 
+## 📬 Contact & Connect
+
+<div align="center">
+
+<p>
+  <a href="mailto:asmathdev12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/asmath-dev8212"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Azzmath-12"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://asmath-portfolio-12.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" /></a>
+</p>
+
+<p>
+  <a href="mailto:asmathdev12@gmail.com"><img src="https://img.shields.io/badge/Email-asmathdev12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asmath-dev8212"><img src="https://img.shields.io/badge/LinkedIn-asmath--dev8212-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Azzmath-12"><img src="https://img.shields.io/badge/GitHub-Azzmath--12-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://asmath-portfolio-12.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
