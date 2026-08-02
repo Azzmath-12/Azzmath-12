@@ -172,14 +172,6 @@ A robust console-based database persistence engine written in Core Java utilizin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azzmath-12&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
@@ -190,9 +182,11 @@ A robust console-based database persistence engine written in Core Java utilizin
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true&theme=github_dark&hide_border=true" />
 </p> -->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Azzmath-12&theme=github-dark" />
 </p>
+
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark" />
 </p> -->
@@ -205,8 +199,12 @@ A robust console-based database persistence engine written in Core Java utilizin
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzmath-12&theme=react-dark&area=true&hide_border=true" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzmath-12&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
