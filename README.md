@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=200&section=header&text=Asmath%20Batcha%20S&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=200&section=header&text=Asmath%20Batcha%20.S&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;React.js+%26+Spring+Boot+Engineer;Backend+%26+Database+Architect;Open+Source+Contributor" alt="Typing SVG" />
