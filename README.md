@@ -172,11 +172,11 @@ A robust console-based database persistence engine written in Core Java utilizin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azzmath-12&show_icons=true&theme=github_dark&hide_border=true" alt="Azzmath-12 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzmath-12&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark&hide_border=true" alt="Azzmath-12 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzmath-12&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
